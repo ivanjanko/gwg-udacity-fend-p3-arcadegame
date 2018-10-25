@@ -9,5 +9,5 @@ Movement: arrow keys
 
 Rules: avoid bugs and reach to the water
 
-### Resources
+### Contribution
   [FEND P3: Classic Arcade Game Clone walkthrough with Llon](https://www.youtube.com/watch?v=oz7pHJ65TEk&feature=youtu.be)
