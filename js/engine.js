@@ -78,7 +78,8 @@ var Engine = (function(global) {
      * on the entities themselves within your app.js file).
      */
     function update(dt) {
-        updateEntities(dt);
+        // if modal is present freeze bugs
+        document.querySelector('.modal').style.display !== "block" ? updateEntities(dt): null;
         // checkCollisions();
     }
 

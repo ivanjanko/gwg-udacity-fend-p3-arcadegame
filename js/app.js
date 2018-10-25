@@ -45,6 +45,7 @@ Player.prototype.handleInput = function(direction) {
         if ( this.y > 100 ) {
             this.y -= 83;
         } else {
+            // if this.y < 100 display modal
             modal.style.display = "block";
         }
     } else if (direction === 'right' && this.x < 400) {
