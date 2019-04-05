@@ -1,9 +1,8 @@
 ## Frogger Clone
 
 To play the game go to:
-         
 
-    https://ivanjankovic.github.io/gwg-udacity-fend-p3-arcadegame/
+https://ivanjankovic.github.io/gwg-udacity-fend-p3-arcade-game/
 
 Movement: arrow keys
 
